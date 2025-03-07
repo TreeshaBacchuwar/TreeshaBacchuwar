@@ -1,6 +1,6 @@
 ## Hey there! 👋 I'm Treesha Bacchuwar 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF5733&width=550&lines=Passionate+Coder+%7C+Aspiring+Tech+Leader;+AI+Enthusiast;Building+Innovative+Projects+%7Python+Lifelong+Learner)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF5733&width=550&lines=Passionate+Coder+%7C+Aspiring+Tech+Leader;+AI+Enthusiast;Building+Innovative+Projects+%7CPython+Lifelong+Learner)
 
 ### 🚀 About Me
 - 🎓 **Computer Science Engineering Student (3rd Year)**
