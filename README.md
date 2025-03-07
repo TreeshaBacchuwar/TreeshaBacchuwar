@@ -9,25 +9,24 @@
 
 ### 🛠 Tech Stack
 - 👨‍💻 **Languages:** Python, C, Java, HTML, CSS, JavaScript
-- 🔧 **Frameworks & Tools:** Node.js, Mongoose
-- 🗄️ **Databases:** MongoDB (Learning more about it!)
+- 🔧 **Frameworks & Tools:** Node.js, React, Streamlit, Flask
+- 🗄️ **Databases:** MongoDB , MySQL
 - 
 ### 💼 Projects
-- 🏗️ **Hyperlocal Event Finder** – Connecting users to local events
+- 🏗️ **Hyperlocal Event Finder** – Connecting students to local events
 - 📸 **Photography Portfolio** – Showcasing photography skills
+- 📦 **Inventory Management System** - Built with Python & Streamlit
 - 🏨 **Hotel Management System** – Built with Python & Tkinter
-- 🎵 **Custom AI Playlist Generator** – AI-powered music curation
 
 
 ### 🌟 Fun Stuff
 - 🧠 **I love learning new things!** If you have any interesting projects, hit me up!
-- 🏋️‍♂️ **Balancing College, Internship, and Side Projects like a Pro!**
+- 🏋️‍♂️ **Balancing College and Side Projects like a Pro!**
 - 📚 **Currently Reading:** Tech & Business Books to shape my entrepreneurial mindset
-- 🚀 **Future Aspirations:** Cracking UPSC CSE or ISRO/DRDO (Still deciding!)
 
 ### 📫 Let's Connect!
 <p align="left">
-  <a href="[https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/treesha-bacchuwar-921194258/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/treesha-bacchuwar-921194258/]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:treesha2004@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
